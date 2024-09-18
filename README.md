@@ -13,28 +13,17 @@
 <p align="center"><img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" alt="Anya_v2_Visits_Counter" /></p>
 
 ##
-## `How To Deploy?`
+## `Fork This Repo?`
   1. Fork the `Repo`.
-     - ***([`Tap Here To Fork`](https://github.com/PikaBotz/Anya_v2-MD/fork))***
-
-##
-
-  2. Get a `SESSION_ID` by scanning QR code or using pair code.
-     - ***([`Tap Here For Session Id`](https://anya-session.olduser.me/choose.html))***
-     - ***([`Tap Here For Tutorial`](https://example.com))***
-
-##
-  3. Get a `MONGODB_URL` from mongodb website.
-     - ***([`Tap Here For Url`](https://www.mongodb.com/cloud/atlas/register))***
-     - ***([`Tap Here For Tutorial`](https://example.com))***
+     - ***([`Tap Here To Fork`](https://github.com/Kgtech-cmr/Kerm-Bug-V2/fork))***
 
 ---
 
-### `Where To Deploy? (Choose One)`
+### `Where To Deploy?`
 
 ##
 
-1. [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/PikaBotz/Anya_v2-MD&branch=master&builder=dockerfile&region=fra&name=queen-anya-md&service_type=web&ports=8080;http;/&env%5BBotName%5D=Queen%20Anya%20Bot&env%5BFooter%5D=%C2%A9%20Queen%20Anya%20Bot&env%5BPrefix%5D=-&env%5BThemeEmoji%5D=%F0%9F%8E%90&env%5BOwner_Name%5D=Pika~Kun&env%5BOwner_Number%5D=91881107xxxx&env%5BInsta%5D=3.69_pika&env%5BAuthor%5D=PikaBotz&env%5BPackName%5D=Queen%20Anya%20v2%20MD&env%5BWeb%5D=https://github.com/PikaBotz&env%5BGcLink%5D=https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX&env%5BWarn_Limits%5D=3&env%5BCooldown_Timer_Seconds%5D=5&env%5BPort%5D=8080&env%5BMongoDB%5D=YOUR_MONGODB_URL&env%5BSESSION_ID%5D=YOUR_SESSION_ID)
+1. [![Deploy to Panel](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/PikaBotz/Anya_v2-MD&branch=master&builder=dockerfile&region=fra&name=queen-anya-md&service_type=web&ports=8080;http;/&env%5BBotName%5D=Queen%20Anya%20Bot&env%5BFooter%5D=%C2%A9%20Queen%20Anya%20Bot&env%5BPrefix%5D=-&env%5BThemeEmoji%5D=%F0%9F%8E%90&env%5BOwner_Name%5D=Pika~Kun&env%5BOwner_Number%5D=91881107xxxx&env%5BInsta%5D=3.69_pika&env%5BAuthor%5D=PikaBotz&env%5BPackName%5D=Queen%20Anya%20v2%20MD&env%5BWeb%5D=https://github.com/PikaBotz&env%5BGcLink%5D=https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX&env%5BWarn_Limits%5D=3&env%5BCooldown_Timer_Seconds%5D=5&env%5BPort%5D=8080&env%5BMongoDB%5D=YOUR_MONGODB_URL&env%5BSESSION_ID%5D=YOUR_SESSION_ID)
 
 ***<p align="left"> • [`Tap here for Koyeb tutorial`](https://example.com) </p>***
 
