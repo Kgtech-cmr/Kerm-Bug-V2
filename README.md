@@ -21,7 +21,7 @@
 
 ### `Where To Deploy?`
 
-2. [![Deploy to Render](https://discord.com/images/deploy-to-discord-button.svg)](https://bot-hosting.net)
+2. [![Deploy On Panel](https://bot-hosting.net)
  ```
 Hey bro 
 want To Connect this bot  with your Whatsapp Number
