@@ -21,7 +21,8 @@
 
 ### `Where To Deploy?`
 
-2. [![Deploy to Panel](https://bot-hosting.net/images/deploy-to-bot-hosting-button.svg)](https://bot-hosting.net)
+2. [![Deploy to Panel](![image](https://github.com/user-attachments/assets/3d2e22c5-10af-45f3-9a6c-333959e5dd38)
+)
 
  ```
 Hey bro 
