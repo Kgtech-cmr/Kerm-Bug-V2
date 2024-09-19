@@ -24,16 +24,17 @@
 2. [![Deploy to Panel](https://render.com/images/deploy-to-render-button.svg)](https://bot-hosting.net)
 
  ```
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
+Hey bro 
+want To Connect this bot  with your Whatsapp Number
+
+here is no any cmd
+
+Go and watch Tutorial Video On KermHackTools Youtube Channal
+
+
+you can also see these tutorials.. 👇 
+   😘 💕   Panel host method https://youtu.be/KermHackTools-s9s
+
 ```
 
 ### `Need Support?` ***Join support group..!***
