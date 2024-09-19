@@ -19,9 +19,9 @@
 
 ---
 
-### `Where To Deploy?`
+### `Where To Deploy ?`
 
-2. [![Deploy On Panel](https://bot-hosting.net)
+2. ([Deploy On Panel](https://bot-hosting.net))
  ```
 Hey bro 
 want To Connect this bot  with your Whatsapp Number
