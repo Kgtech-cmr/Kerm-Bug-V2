@@ -35,6 +35,9 @@ you can also see these tutorials.. 👇
    😘 💕   Panel host method https://youtu.be/KermHackTools-s9s
 
 ```
+⚠️We don't scan the session on the repo.
+You just import the zip in the panel, you put your num as premium and owner then you start the deployment.
+It is on the codespace of the panel that you will be asked to put your number for the session.
 
 ### `Need Support?` ***Join support group..!***
 
