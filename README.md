@@ -21,7 +21,7 @@
 
 ### `Where To Deploy?`
 
-2. [![Deploy to Panel](https://render.com/images/deploy-to-panel-button.svg)](https://bot-hosting.net)
+2. [![Deploy to Panel](https://render.com/images/deploy-to-render-button.svg)](https://bot-hosting.net)
 
  ```
 apt update
@@ -38,8 +38,8 @@ pkg install imagemagick -y
 
 ### `Need Support?` ***Join support group..!***
 
-  - [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L5MM9j04Caz4y2EZHRnD1Z)
-   - [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45)
+  - [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L5MM9j04Caz4y2EZHRnD1Z) ***GROUP SUPPORT***
+   - [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45) ***CHANNEL***
    - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@KermHackTools-s9s)
 
 ##
