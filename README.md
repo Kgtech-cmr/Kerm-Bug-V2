@@ -5,6 +5,11 @@
 <h1 align="center">Kerm_Bug-V2</h1>
 
 <p align="center">
+  <a href="https://kg-site-support.vercel.app/">
+    <img src="https://img.shields.io/badge/KG WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
+  </a>
+
+<p align="center">
   <a href="https://github.com/Kgtech-cmr"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kerm+Bug+v2+MultiDevice;New+Plugin+Base+Modification;Developed+by+Kg~Tech;Give+star+and+forks+this+Repo+🌟" alt="KermReadme"></a>
 </p>
 
