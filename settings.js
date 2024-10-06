@@ -52,8 +52,8 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 global.mess = {
     done: '_Done bro!_',
     prem: '_This feature can be used by premium user only man😑_',
-    admin: '_This feature can be used by admin only idiot_',
-    botAdmin: '_This feature can only be used when the bot is a group admin_',
+    admin: '_This feature can be used by admin only idiot😠_',
+    botAdmin: '_This feature can only be used when the bot is a group admin idiot😒_',
     owner: '_This feature can be used by owner only idiot😠_',
     group: '_This feature is only for groups man_',
     private: '_This feature is only for private chats🤦🏽‍♂️_',
